@@ -5,7 +5,6 @@
     font-family: Arial, sans-serif;
 }
 
-/* Fundo mais suave e moderno */
 body {
     background: linear-gradient(135deg, #4b2e2e, #8b4a4a);
     min-height: 100vh;
@@ -14,7 +13,6 @@ body {
     align-items: center;
 }
 
-/* Lista de mensagens */
 ul {
     position: absolute;
     top: 20px;
@@ -30,3 +28,4 @@ svg {
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0,0,0,0.6);
 }
+
